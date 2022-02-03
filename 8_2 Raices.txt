@@ -1,0 +1,6 @@
+04/09/21 13:04:20
+Parùmetros de la parùbola:
+Tùmino cuadrùtico: 1.0
+Tùmino lineal: 0.0
+Tùmino independiente: -25.0
+Existe dos soluciones: 5.00 y -5.00
